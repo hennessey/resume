@@ -2,7 +2,7 @@
 
 ### Software Engineer
 
-I am a life-long learner and Web developer with 3+ years of experience building server and client applications and APIs using C# and modern JavaScript.
+I am a life-long learner and Web developer with 3+ years of experience building server and client interfaces and APIs using C# and modern JavaScript.
 
 I am a big fan of building user interfaces using React -- its component-based, _UI as a function of data_-pattern is what made me fall back in love with UI development.
 
@@ -53,6 +53,10 @@ I care deeply about ensuring the UI's I develop are accessible and inclusive as 
 
 ## Education
 
-- B.A. Political Science  
+- Unlimited software development knowledge  
+  The Internet  
+  _since I was born - present_
+
+* B.A. Political Science  
   University Of Massachusetts, Amherst  
   _2005 - 2009_
