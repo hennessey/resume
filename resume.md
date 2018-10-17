@@ -4,6 +4,10 @@
 
 I am a life-long learner and Web developer with 3+ years of experience building server and client applications and APIs using C# and modern JavaScript.
 
+I am a big fan of building user interfaces using React -- its component-based, _UI as a function of data_-pattern is what made me fall back in love with UI development.
+
+I care deeply about ensuring the UI's I develop are accessible and inclusive as possible
+
 ---
 
 ## Technology Interests
@@ -18,11 +22,13 @@ I am a life-long learner and Web developer with 3+ years of experience building 
 
   - Software Developer _2015 - present_
 
-    - Responsible for maintaining and developing an internal API written in C# that aggregates critical information from several sources to provide a single source of truth for public facing services. (MongoDB, rabbitMQ, MassTransit, MSSQL)
+    - Responsible for maintaining and developing an internal API written in C# that aggregates critical information from several sources to provide a single source of truth for flight, hotel and other itinerary information to public facing services. (MongoDB, rabbitMQ, MassTransit, MSSQL)
     - Responsible for mentoring and managing engineering interns
-    - Implemented a custom Content Management System as a single-page application using React, Redux and ReactRouter
+    - Implemented a custom Content Management System\* as a single-page application using React, Redux and ReactRouter
     - Transitioned from a non-technical (Business Analyst) role to engineering
-    - **Technical Environment**: React, C#, HTML/CSS, MongoDB, MSSqlServer
+    - **Technical Environment**: React, C#, HTML/CSS, MongoDB, MSSqlServer, git
+
+      \*_(yeah, I know, never roll your own CMS but I swear we had a great reason to do so)_
 
   - Business Analyst _2011 - 2015_
 
