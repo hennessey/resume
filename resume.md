@@ -53,10 +53,6 @@ I care deeply about ensuring the UI's I develop are accessible and inclusive as 
 
 ## Education
 
-- Unlimited software development knowledge  
-  The Internet  
-  _since I was born - present_
-
-* B.A. Political Science  
+- B.A. Political Science  
   University Of Massachusetts, Amherst  
   _2005 - 2009_
