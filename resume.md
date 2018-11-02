@@ -12,7 +12,7 @@ I care deeply about ensuring the UI's I develop are accessible and inclusive as 
 
 ## Technology Interests
 
-- Functional Programming (Haskell)
+- Functional Programming
 - Web Accessibility (a11y)
 - Web design and user experience
 
