@@ -27,11 +27,11 @@ h2 {
 }
 
 h3 {
-  font-size: 1.25rem;
+  font-size: 1.33rem;
 }
 
 h4 {
-  font-size: 1rem;
+  font-size: 1.15rem;
 }
 
 .visually-hidden {
@@ -40,4 +40,7 @@ h4 {
   height: 1px;
   overflow: hidden;
   clip: rect(1px, 1px, 1px, 1px);
+}
+.date-range {
+  font-style: italic;
 }
