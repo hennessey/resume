@@ -9,6 +9,10 @@ html {
 }
 
 @media print {
+  html {
+    font-size: 75%;
+  }
+
   body > *:not(main) {
     display: none;
   }
