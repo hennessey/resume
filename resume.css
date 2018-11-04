@@ -42,10 +42,6 @@ h2 {
 }
 
 h3 {
-  font-size: 1.33rem;
-}
-
-h4 {
   font-size: 1.15rem;
 }
 
@@ -71,4 +67,7 @@ p a {
 }
 .date-range {
   font-style: italic;
+}
+.job-title {
+  font-weight: normal;
 }
