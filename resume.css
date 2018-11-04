@@ -10,13 +10,18 @@ html {
 
 @media print {
   html {
-    font-size: 75%;
+    font-size: 50%;
   }
 
   body > *:not(main) {
     display: none;
   }
+
+  h1, h2, h3, h4, p, li {
+    margin: .75rem auto;
+  }
 }
+
 
 main {
   max-width: 60rem;
