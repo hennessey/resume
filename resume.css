@@ -8,19 +8,6 @@ html {
   }
 }
 
-@media print {
-  html {
-    font-size: 50%;
-  }
-
-  body > *:not(main) {
-    display: none;
-  }
-
-  h1, h2, h3, h4, p, li {
-    margin: .75rem auto;
-  }
-}
 
 
 main {
@@ -83,4 +70,22 @@ header.primary > p {
 
 header.primary {
   margin-bottom: 1rem;
+}
+
+.print-only {
+  display: none;
+}
+
+@media print {
+  html {
+    font-size: 50%;
+  }
+
+  body > *:not(main) {
+    display: none;
+  }
+
+  .print-only {
+    display: block;
+  }
 }
